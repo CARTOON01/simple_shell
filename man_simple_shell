@@ -1,5 +1,5 @@
 "man page for simple shell.
-.TH man 1 "18 November 2022" "simple shell"
+.TH man 1 " 15th April 2023" "simple shell"
 SH NAME
 ALX simple shell
 
@@ -39,3 +39,5 @@ br
 
 .SH History
 it is based on the Thompson Shell program written by Ken Thompson
+.Author
+<a href="https://github.com/CARTOON01>Brian Ngugi</a>
