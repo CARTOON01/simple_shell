@@ -2,7 +2,7 @@
 This project is an implementation of the shell as final project for C code at ALX Africa
 
 ## Description
-This is a shell written in `c`.
+This is a shell written in `C`.
 ## Environment
 The shell will be built and tested on Ubuntu 14.04 LTS.
 ## Author
