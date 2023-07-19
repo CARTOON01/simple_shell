@@ -1,5 +1,5 @@
 # **0x16. c - simple shell**
-This project is an implementation of the shell as final project for c code at ALX Africa
+This project is an implementation of the shell as final project for C code at ALX Africa
 
 ## Description
 This is a shell written in `c`.
@@ -7,6 +7,13 @@ This is a shell written in `c`.
 The shell will be built and tested on Ubuntu 14.04 LTS.
 ## Author
 <a href="https://github.com/CARTOON01" style="font-size: 11px;" target="_blank">Brian Ngugi</a>
+
+## Resource
+
+- [Unix shell](https://en.wikipedia.org/wiki/Unix_shell)
+- [Thompson shell](https://en.wikipedia.org/wiki/Thompson_shell)
+- [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)
+- [Everything you need to know to start coding your own shell](https://www.notion.so/C-Programming-f13cdb9661db464f8ea326c5a2654e8e)
 
 ## What is shell
 A shell is a program that executes other programs in response to text commands. A sophisticated shell can also change the environment in which other programs execute by passing named variables, a parameter list, or an input source.
